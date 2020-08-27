@@ -18,9 +18,10 @@ support bracket as illustrated below. Optical instrument structural design is of
 load cases: spacecraft launch and extreme thermal conditions while in space.
 The design problem is thus mutliphysics in nature, requiring a coupled
 thermomechanical approach. See [the complete design problem
-definition](Multiphysic%20JPL%20design%20problem.pdf) for more details.
+definition](https://github.com/nasa-jpl/design-challenge-multiphysics/releases/latest) for more details.
 
 ![Design problem geometric definition](images/configuration.png)
+
 
 
 # Solution submission process
@@ -31,7 +32,7 @@ Please submit your final designs using the [Github issue tracker](https://github
   example, "Jet Propulsion Laboratory: Ryan Watkins". 
 - Within the issue text, submit a summary of results and supporting materials as
  outlined in the second to last slide of [the complete design problem
-definition](Multiphysic%20JPL%20design%20problem.pdf).
+definition](https://github.com/nasa-jpl/design-challenge-multiphysics/releases/latest).
 
 # General notes
 
@@ -39,7 +40,7 @@ definition](Multiphysic%20JPL%20design%20problem.pdf).
 restricted to just this manufacturing technique.
 - Please cite this design problem as specified in the last slide of [the
   complete design problem
-  definition](Multiphysic%20JPL%20design%20problem.pdf).
+  definition](https://github.com/nasa-jpl/design-challenge-multiphysics/releases/latest).
 
 © 2020 California Institute of Technology. Government sponsorship acknowledged.
 
